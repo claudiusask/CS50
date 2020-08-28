@@ -28,7 +28,7 @@
     <Text Include="Notes.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="08_sizeof.c">
+    <ClCompile Include="011_break_and_continue_LOOP.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
