@@ -1,0 +1,6 @@
+/*
+
+1....strcpy was having an issue so I went into Solution Explorer -->> right click the projetc -->> Properties -->> Select All Configuration  with x64-->> Expand C/C++ -->> go to Preprocessor -->>
+and add "_CRT_SECURE_NO_WARNINGS" into Preprocessor Definitions. 
+
+*/
