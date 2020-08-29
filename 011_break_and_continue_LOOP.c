@@ -3,15 +3,15 @@
 main()
 {
 	int s;
-	for (size_t s = 0; s <= 10 ; s++)
+	for (size_t s = 0; s <= 10; s++)
 	{
-		printf("S is %i\n", s);
-		if (s == 4)
+		printf(" S is %i\n", s);
+		if (s == 6)
 		{
 			break;
 		}
-		
-	}
+
+	}return 0;
 
 
 	int i;
